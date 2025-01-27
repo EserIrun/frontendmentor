@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+}
+.container{
+    background-color: cadetblue;
+    align-items:center;
+}
+
+.card {
+    background-color: white;
+    border-radius: 1%;
+  
+    align-items:center;
+    width: 40%;
+    height: 30%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 20px;
+}
+
+.card-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
